@@ -1,0 +1,157 @@
+{
+  "name": "server 195",
+  "image": "xxx",
+  "author": "update 16/03/26",
+  "groups": [
+    {
+      "name": "server 195",
+      "image": "xxx",
+      "stations": [
+        {
+          "name": "animalshow",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/animalshow",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "astrograndstand",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/astrograndstand",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "astropremierleague",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/astropremierleague",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "astropremierleague2",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/astropremierleague2",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "bein3",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/bein3",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "cinimax",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/cinimax",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "discovery",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/discovery",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "hbofamily",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/hbofamily",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "hbohits",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/hbohits",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "mono29plus",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/mono29plus",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "rockaction",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/rockaction",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "rockentertainment",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/rockentertainment",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "rush",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/rush",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "true4u",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/true4u",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "truefilm2",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/truefilm2",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "truefilmasia",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/truefilmasia",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        }
+      ]
+    }
+  ]
+}
