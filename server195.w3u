@@ -42,6 +42,15 @@
           "userAgent": "Mozilla/5.0",
           "info": "Server github",
           "playInNatPlayer": true
+},
+        {
+          "name": "bein1",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/bein1",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
         },
         {
           "name": "bein3",
@@ -71,6 +80,24 @@
           "playInNatPlayer": true
         },
         {
+          "name": "golf",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/golf",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "hbo",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/hbo",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
           "name": "hbofamily",
           "image": "xxx",
           "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/hbofamily",
@@ -89,9 +116,108 @@
           "playInNatPlayer": true
         },
         {
+          "name": "hbosignature",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/hbosignature",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "history",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/history",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "mono29music",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/mono29music",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
           "name": "mono29plus",
           "image": "xxx",
           "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/mono29plus",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax1",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/monomax1",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax2",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/monomax2",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax3xx",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/monomax3xx",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax4xx",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/monomax4xx",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax5xx",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/monomax5xx",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax6xx",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/monomax6xx",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax7xx",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/monomax7xx",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "nba",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/nba",
           "referer": "https://github.com/",
           "userAgent": "Mozilla/5.0",
           "info": "Server github",
@@ -150,8 +276,36 @@
           "userAgent": "Mozilla/5.0",
           "info": "Server github",
           "playInNatPlayer": true
+        },
+        {
+          "name": "truesport2",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/truesport2",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "truespotv2",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/truespotv2",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "warnerbrostv",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/server195/raw/refs/heads/main/warnerbrostv",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
         }
       ]
     }
   ]
+}
 }
