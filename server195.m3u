@@ -121,7 +121,7 @@ https://github.com/prachyak13/server195/raw/refs/heads/main/truesport5
 https://github.com/prachyak13/server195/raw/refs/heads/main/truesport7
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg",SPOTV 1
-https://github.com/prachyak13/server195/raw/refs/heads/main/truespotv
+https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/truespotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",SPOTV 2
 https://github.com/prachyak13/server195/raw/refs/heads/main/truespotv2
