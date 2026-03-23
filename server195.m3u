@@ -135,42 +135,6 @@ https://github.com/prachyak13/server195/raw/refs/heads/main/tsport7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Warner_Bros._Television_2023_%28Alt%29.svg",Warner Bros TV
 https://github.com/prachyak13/server195/raw/refs/heads/main/warnerbrostv
 
-#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/J9pc1742730",monomax1
-https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/MONOMAX1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/J9pc1742730",monomax1 (Test)
-https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/Test1
-
-#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/J9pc1742730",monomax2
-https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/MONOMAX2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/J9pc1742730",monomax3
-https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/MONOMAX3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/J9pc1742730",monomax4
-https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/MONOMAX4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/J9pc1742730",monomax5
-https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/MONOMAX5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/J9pc1742730",monomax6
-https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/MONOMAX6.m3u8
-
-#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/J9pc1742730",monomax7
-https://raw.githubusercontent.com/prachyak13/File-Other.w3u/refs/heads/main/222
-
-#EXTINF:-1 tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/TrueSport01.jpg",truesports 1
-https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truesport1.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/TrueSport2.jpg",truesports 2
-https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truesport2.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/TrueSport3.jpg",truesports 3
-https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truesport3.m3u8
-
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",truebein1
-https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truebeinsport1.m3u8
-
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",truebein2
 https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truebeinsport2.m3u8
 
