@@ -1,19 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-NmdsxeiHeM/maxresdefault.jpg",animalshow
-https://github.com/prachyak13/server195/raw/refs/heads/main/animalshow
+https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/animalshow.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/necgva1731235994.png",astrofootball
-https://github.com/prachyak13/server195/raw/refs/heads/main/astrofootball
+https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/astrofootball.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/mwtc9p1731234887.png",astrograndstand
-https://github.com/prachyak13/server195/raw/refs/heads/main/astrograndstand
+https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/astrograndstand.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/g0g6p61731234018.png",astropremier league
-https://github.com/prachyak13/server195/raw/refs/heads/main/astropremierleague
+https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/astropremierleague.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/bk9vbh1731234210.png",astropremier league 2
-https://github.com/prachyak13/server195/raw/refs/heads/main/astropremierleague2
+https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/astropremierleague2.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",beIN SPORTS 1
 https://github.com/prachyak13/server195/raw/refs/heads/main/bein1
@@ -141,8 +141,8 @@ https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truebeinspo
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",truebein3
 https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truebeinsport3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x12jpfVF/Hub-Premier-2-UHD.png",hubpremier UHD2
-https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier%20UHD2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x12jpfVF/Hub-Premier-2-UHD.png",HUB PREMIER UHD2 4k
+https://raw.githubusercontent.com/prachyak13/hub/refs/heads/main/hubpremier_uhd2.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png",HUB PREMIER 1 ᵁᴴᴰ
 https://github.com/prachyak13/hub/raw/refs/heads/main/hubpremier1
@@ -169,7 +169,7 @@ https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier7
 https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png",hubsport1
-https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubsports1
+https://raw.githubusercontent.com/prachyak13/hub/refs/heads/main/hubsports1.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/m85hz61655810471.png",hubsport2
 https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubsports2
