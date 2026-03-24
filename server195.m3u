@@ -54,7 +54,7 @@ https://github.com/prachyak13/server195/raw/refs/heads/main/discovery
 https://github.com/prachyak13/server195/raw/refs/heads/main/golf
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg",HBO
-https://github.com/prachyak13/server195/raw/refs/heads/main/hbo
+https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",HBO Family
 https://github.com/prachyak13/server195/raw/refs/heads/main/hbofamily
