@@ -144,8 +144,7 @@ https://github.com/prachyak13/server195/raw/refs/heads/main/truesport7
 https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/truespotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",SPOTV 2
-https://github.com/prachyak13/server195/raw/refs/heads/main/truespotv2
-
+https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/truespotv2.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.png",True Tennis HD
 https://github.com/prachyak13/server195/raw/refs/heads/main/truetennis
 
