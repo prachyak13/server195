@@ -135,13 +135,13 @@ https://github.com/prachyak13/server195/raw/refs/heads/main/truemoviehits
 https://github.com/prachyak13/server195/raw/refs/heads/main/truescience
 
 #EXTINF:-1 tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/TrueSport2.jpg",True Sport 2
-https://github.com/prachyak13/server195/raw/refs/heads/main/truesport2
+https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/truesport2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/TrueSport3.jpg",True Sport 3
-https://github.com/prachyak13/server195/raw/refs/heads/main/truesport3
+https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/truesport3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/TrueSport5.jpg",True Sport 5
-https://github.com/prachyak13/server195/raw/refs/heads/main/truesport5
+https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/truesport5.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/TrueSport7.jpg",True Sport 7
 https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/truesport7.m3u8
@@ -201,21 +201,3 @@ https://raw.githubusercontent.com/prachyak13/hub/refs/heads/main/hubsports2.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/tmpwbb1655810489.png",hubsport3
 https://raw.githubusercontent.com/prachyak13/hub/refs/heads/main/hubsports3.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV1
-https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truespotv1.m3u8
-
-#EXTINF:-1 tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",SPOTV2
-https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truesport2.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png",truegolf
-https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truegolf.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.png",trueTENNIS
-https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truetennis.m3u8
-
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/us-nba.png",NBA
-https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/nba.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/gRaZAbtHIbw/maxresdefault.jpg",ANIMAL SHOW [TH]
-https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/ANIMALSHOW
