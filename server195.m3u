@@ -71,8 +71,8 @@ https://github.com/prachyak13/server195/raw/refs/heads/main/hbosignature
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg",History Channel
 https://github.com/prachyak13/server195/raw/refs/heads/main/history
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Cv7ihDp9Wg8TLwGB70khTm06geHvv1XoWEl3awvB-cQFP1IVFCmeH_rnujwPZOaeNejobO76KQ=s900-c-k-c0x00ffffff-no-rj",Mono29 Music
-https://github.com/prachyak13/server195/raw/refs/heads/main/mono29music
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/PinsSbOLD28ibsl1S6D2ECS49pQN25Zdqnq-DhENA9OfuI2PESPO_KDJlMX8xe6RrA",Mono29
+https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/mono29.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4w_CH10ooc5JsT7XGgAG4O7HzsZjT6ZU5PA&s",Mono29 Plus
 https://github.com/prachyak13/server195/raw/refs/heads/main/mono29plus
