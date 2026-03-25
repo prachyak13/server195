@@ -113,6 +113,9 @@ https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/rockenter
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/qd8ky1tRCj-OO8_uUMqQUuhV_UrdiL_5C8NRQFgsFSGLNmXne98_ohKxt1kMaeZ1_3s7ShVO=s900-c-k-c0x00ffffff-no-rj",Rush Channel
 https://github.com/prachyak13/server195/raw/refs/heads/main/rush
 
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/9902ff70-a0f5-48c9-b8c0-e068a790a702.png",True thaifilm
+https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/truethaifilm.m3u8
+
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/03/15/58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png",True4U
 https://github.com/prachyak13/server195/raw/refs/heads/main/true4u
 
