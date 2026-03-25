@@ -6,7 +6,7 @@
 http://v3tv.live/live/t2i2xvq8ts/0ke6kjhyw6/1776066.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2200002,NAME="1"
-http://45.139.122.199:8080/play/live.php?mac=00:1A:79:bf:ce:d5&stream=115304&extension=m3u8
+http://195.128.27.141:80/live/29635847216070086058/5jq68fox8okip6k08rbs/1776239.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2200000,NAME="2"
 http://195.128.27.141:80/live/29635847216070086058/5jq68fox8okip6k08rbs/1776065.m3u8  
