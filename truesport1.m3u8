@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+
+#EXT-X-STREAM-INF:BANDWIDTH=2200000,NAME="1"
+http://moo7-restream2025.ddns.net:9091/Sport_tv_ts1/index.m3u8
