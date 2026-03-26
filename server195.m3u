@@ -20,8 +20,12 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 #KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/AXN_(Portuguese_TV_channel)/AXN_(Portuguese_TV_channel)-Logo.wine.png",AXN [TH]
-https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/000.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-name="asian" tvg-logo="https://gigatv.3bbtv.co.th/en/wp-content/themes/changwattana/img/channel/new2025/Asian-Hits.png", asian
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/3bbasian|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000&Referer=https://dookeela4.live/
+
 
 #EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK03C6-8IbmnOSyOE9jk4uwrujFUM88dbtm3Hk0JhGEg&s=10",PPTV36
 https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/pptv36.m3u8
