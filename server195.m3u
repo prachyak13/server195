@@ -53,6 +53,9 @@ https://github.com/prachyak13/server195/raw/refs/heads/main/bein3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
 https://github.com/prachyak13/server195/raw/refs/heads/main/cinimax
 
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/AXN_(Portuguese_TV_channel)/AXN_(Portuguese_TV_channel)-Logo.wine.png",AXN [TH]
+https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/axn.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/2016_Discovery_logo.svg",Discovery
 https://github.com/prachyak13/server195/raw/refs/heads/main/discovery
 
