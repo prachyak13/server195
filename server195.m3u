@@ -31,7 +31,7 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 https://dookeela4.live/live-tv/3bbasian|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000&Referer=https://dookeela4.live/
 
 
-#EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK03C6-8IbmnOSyOE9jk4uwrujFUM88dbtm3Hk0JhGEg&s=10",PPTV36
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK03C6-8IbmnOSyOE9jk4uwrujFUM88dbtm3Hk0JhGEg&s=10",PPTV36
 https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/pptv36.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-NmdsxeiHeM/maxresdefault.jpg",animalshow
