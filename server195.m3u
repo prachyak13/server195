@@ -1,41 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.webp" group-title="ทีวีดิจิตอล",T Sports 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ZitE6e8xo2ptVNJRX8M0MEyDr5btN4yARlPy3VDntZGk48PIVLvdqafKMZ0p98huuA=w600-h300-pc0xffffff-pd",AIS SPORT 1
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/ais1.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ZitE6e8xo2ptVNJRX8M0MEyDr5btN4yARlPy3VDntZGk48PIVLvdqafKMZ0p98huuA=w600-h300-pc0xffffff-pd",AIS SPORT 2
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/ais2.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ZitE6e8xo2ptVNJRX8M0MEyDr5btN4yARlPy3VDntZGk48PIVLvdqafKMZ0p98huuA=w600-h300-pc0xffffff-pd",AIS SPORT 3
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/ais3.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ZitE6e8xo2ptVNJRX8M0MEyDr5btN4yARlPy3VDntZGk48PIVLvdqafKMZ0p98huuA=w600-h300-pc0xffffff-pd",AIS SPORT 4
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/ais4.m3u8
+
+#EXTINF:-1 tvg-logo="https://nextstep.tv/wp-content/uploads/2017/09/nextstep-anm-1.jpg",animal show
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/animalshow.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-NmdsxeiHeM/maxresdefault.jpg",animalshow
+https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/animalshow.m3u8
 
 #EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/en/wp-content/themes/changwattana/img/channel/new2025/Asian-Hits.png",Asian Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1280px-HBO_Family_Asia_logo.svg.png",HBO Family
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
-
-#EXTINF:-1 tvg-logo="https://img.monomax.me/dNQ0HHm6zzgkCSWIjnRMELUNl9o=/monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/zb0LhX9tkT9jFyFX9WXkinw0jKhEiFd8.png",Mono29+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
-
-#EXTM3U
-#EXTINF:-1 tvg-name="asian" tvg-logo="https://gigatv.3bbtv.co.th/en/wp-content/themes/changwattana/img/channel/new2025/Asian-Hits.png", asian
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://dookeela4.live/
-https://dookeela4.live/live-tv/3bbasian|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000&Referer=https://dookeela4.live/
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK03C6-8IbmnOSyOE9jk4uwrujFUM88dbtm3Hk0JhGEg&s=10",PPTV36
-https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/pptv36.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-NmdsxeiHeM/maxresdefault.jpg",animalshow
-https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/animalshow.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/necgva1731235994.png",astrofootball
 https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/astrofootball.m3u8
@@ -49,6 +35,9 @@ https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/astroprem
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/bk9vbh1731234210.png",astropremier league 2
 https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/astropremierleague2.m3u8
 
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/AXN_(Portuguese_TV_channel)/AXN_(Portuguese_TV_channel)-Logo.wine.png",AXN [TH]
+https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/axn.m3u8
+
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",beIN SPORTS 1[TH]
 https://github.com/prachyak13/server195/raw/refs/heads/main/bein1
 
@@ -61,130 +50,69 @@ https://github.com/prachyak13/server195/raw/refs/heads/main/bein2
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",beIN SPORTS 3[TH]
 https://github.com/prachyak13/server195/raw/refs/heads/main/bein3
 
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein1th
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/bein1th.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein2th
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/bein2th.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein3th
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/bein3th.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
 https://github.com/prachyak13/server195/raw/refs/heads/main/cinimax
 
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/AXN_(Portuguese_TV_channel)/AXN_(Portuguese_TV_channel)-Logo.wine.png",AXN [TH]
-https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/axn.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/2016_Discovery_logo.svg",Discovery
 https://github.com/prachyak13/server195/raw/refs/heads/main/discovery
 
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/26/1/discovery-channel-logo-png_seeklogo-268048.png",discovery
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/discovery.m3u8
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51OUvjSSpZL.png",Golf Channel
 https://github.com/prachyak13/server195/raw/refs/heads/main/golf
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png",GOLF+
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/golf.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg",HBO
 https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/hbo.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZpXsOKJI35eHMOeDpyzsSi47qv_R7F8e9Q&s",HBO
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/hbo.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",HBO Family
 https://github.com/prachyak13/server195/raw/refs/heads/main/hbofamily
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1280px-HBO_Family_Asia_logo.svg.png",HBO Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/5/51/HBO_Family.png/revision/latest/scale-to-width-down/269?cb=20200629025129",HBO family
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/hbofamily.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/250px-HBOHits-ASIA.png",HBO Hits
 https://github.com/prachyak13/server195/raw/refs/heads/main/hbohits
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/250px-HBOHits-ASIA.png",HBO hits
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/hbohits.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature
 https://github.com/prachyak13/server195/raw/refs/heads/main/hbosignature
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO signature
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/hbosignature.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg",History Channel
 https://github.com/prachyak13/server195/raw/refs/heads/main/history
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/PinsSbOLD28ibsl1S6D2ECS49pQN25Zdqnq-DhENA9OfuI2PESPO_KDJlMX8xe6RrA",Mono29
-https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/mono29.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4w_CH10ooc5JsT7XGgAG4O7HzsZjT6ZU5PA&s",Mono29 Plus
-https://github.com/prachyak13/server195/raw/refs/heads/main/mono29plus
-
-#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/J9pc1742730",Monomax 1
-https://github.com/prachyak13/server195/raw/refs/heads/main/monomax1
-
-#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/J9pc1742730",Monomax 2
-https://github.com/prachyak13/server195/raw/refs/heads/main/monomax2
-
-#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/J9pc1742730",Monomax 3xx
-https://github.com/prachyak13/server195/raw/refs/heads/main/monomax3xx
-
-#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/J9pc1742730",Monomax 4xx
-https://github.com/prachyak13/server195/raw/refs/heads/main/monomax4xx
-
-#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/J9pc1742730",Monomax 5xx
-https://github.com/prachyak13/server195/raw/refs/heads/main/monomax5xx
-
-#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/J9pc1742730",Monomax 6xx
-https://github.com/prachyak13/server195/raw/refs/heads/main/monomax6xx
-
-#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/J9pc1742730",Monomax 7xx
-https://github.com/prachyak13/server195/raw/refs/heads/main/monomax7xx
-
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/us-nba.png",NBA TV
-https://github.com/prachyak13/server195/raw/refs/heads/main/nba
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/15/f3c87ce0-3b4c-11ee-9a2b-95fa44b28696_webp_original.webp",Rock Action
-https://github.com/prachyak13/server195/raw/refs/heads/main/rockaction
-
-#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/6944ffddcdc3ede2f865de3c_ROCK%20ENT%20thumbnail.png",Rock Entertainment
-https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/rockentertainment.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/qd8ky1tRCj-OO8_uUMqQUuhV_UrdiL_5C8NRQFgsFSGLNmXne98_ohKxt1kMaeZ1_3s7ShVO=s900-c-k-c0x00ffffff-no-rj",Rush Channel
-https://github.com/prachyak13/server195/raw/refs/heads/main/rush
-
-#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/9902ff70-a0f5-48c9-b8c0-e068a790a702.png",True thaifilm
-https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/truethaifilm.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/03/15/58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png",True4U
-https://github.com/prachyak13/server195/raw/refs/heads/main/true4u
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/47a53600-e599-11ed-94a2-8feec94a4a3b_webp_original.png",True Asian More
-https://github.com/prachyak13/server195/raw/refs/heads/main/trueasianmore
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.png",True film1
-https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/truefilm1.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png",True Film Asia
-https://github.com/prachyak13/server195/raw/refs/heads/main/truefilmasia
-
-#EXTINF:-1 tvg-logo="https://dookeela4.live/uploads/1664499681.png",True Premier Football 3
-https://github.com/prachyak13/server195/raw/refs/heads/main/truefootball3
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/45345d10-e599-11ed-86b8-bb40638e3c49_webp_original.png",True Movie Hits
-https://github.com/prachyak13/server195/raw/refs/heads/main/truemoviehits
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_original.png",True Explore Sci
-https://github.com/prachyak13/server195/raw/refs/heads/main/truescience
-
-#EXTINF:-1 tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/TrueSport2.jpg",True Sport 2
-https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/truesport2.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/TrueSport3.jpg",True Sport 3
-https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/truesport3.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/TrueSport5.jpg",True Sport 5
-https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/truesport5.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/TrueSport7.jpg",True Sport 7
-https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/truesport7.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg",SPOTV 1
-https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/truespotv.m3u8
-
-#EXTINF:-1 tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",SPOTV 2
-https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/truespotv2.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.png",True Tennis HD
-https://github.com/prachyak13/server195/raw/refs/heads/main/truetennis
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Oku7xv4TUB4CUpW1c0ECgoH83coDljhw35tvyM-FQGnw9yk7zRVhUdxSLUaZDVC4r48",T Sports 7
-https://github.com/prachyak13/server195/raw/refs/heads/main/tsport7
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Warner_Bros._Television_2023_%28Alt%29.svg",Warner Bros TV
-https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/warnerbrostv.m3u8
-
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",truebein2
-https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truebeinsport2.m3u8
-
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",truebein3
-https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truebeinsport3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x12jpfVF/Hub-Premier-2-UHD.png",HUB PREMIER UHD2 4k
-https://raw.githubusercontent.com/prachyak13/hub/refs/heads/main/hubpremier_uhd2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg",history
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/history.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png",HUB PREMIER 1 ᵁᴴᴰ
 https://github.com/prachyak13/hub/raw/refs/heads/main/hubpremier1
@@ -210,6 +138,9 @@ https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier7
 #EXTINF:-1 tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624577%27&EntityType=%27Item%27&EntityId=%27572414%27&Width=1920&Height=1080",HUB PREMIER 8 ᵁᴴᴰ
 https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x12jpfVF/Hub-Premier-2-UHD.png",HUB PREMIER UHD2 4k
+https://raw.githubusercontent.com/prachyak13/hub/refs/heads/main/hubpremier_uhd2.m3u8
+
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png",hubsport1
 https://raw.githubusercontent.com/prachyak13/hub/refs/heads/main/hubsports1.m3u8
 
@@ -218,3 +149,185 @@ https://raw.githubusercontent.com/prachyak13/hub/refs/heads/main/hubsports2.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/tmpwbb1655810489.png",hubsport3
 https://raw.githubusercontent.com/prachyak13/hub/refs/heads/main/hubsports3.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/PinsSbOLD28ibsl1S6D2ECS49pQN25Zdqnq-DhENA9OfuI2PESPO_KDJlMX8xe6RrA",Mono29
+https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/mono29.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4w_CH10ooc5JsT7XGgAG4O7HzsZjT6ZU5PA&s",Mono29 Plus
+https://github.com/prachyak13/server195/raw/refs/heads/main/mono29plus
+
+#EXTINF:-1 tvg-logo="https://img.monomax.me/dNQ0HHm6zzgkCSWIjnRMELUNl9o=/monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/zb0LhX9tkT9jFyFX9WXkinw0jKhEiFd8.png",Mono29+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/J9pc1742730",Monomax 1
+https://github.com/prachyak13/server195/raw/refs/heads/main/monomax1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT51K-YcfMamI_Q9xaTQ-e1-B6_3g9fea2Dmg&s",monomax1
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/monomax1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/J9pc1742730",Monomax 2
+https://github.com/prachyak13/server195/raw/refs/heads/main/monomax2
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/J9pc1742730",Monomax 3xx
+https://github.com/prachyak13/server195/raw/refs/heads/main/monomax3xx
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/J9pc1742730",Monomax 4xx
+https://github.com/prachyak13/server195/raw/refs/heads/main/monomax4xx
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/J9pc1742730",Monomax 5xx
+https://github.com/prachyak13/server195/raw/refs/heads/main/monomax5xx
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/J9pc1742730",Monomax 6xx
+https://github.com/prachyak13/server195/raw/refs/heads/main/monomax6xx
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/J9pc1742730",Monomax 7xx
+https://github.com/prachyak13/server195/raw/refs/heads/main/monomax7xx
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/us-nba.png",NBA TV
+https://github.com/prachyak13/server195/raw/refs/heads/main/nba
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_bJYSW8AI1M-Zp8M0OBlgw71L0URvLnlfZw&s",PPTV 36
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/pptv36.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK03C6-8IbmnOSyOE9jk4uwrujFUM88dbtm3Hk0JhGEg&s=10",PPTV36
+https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/pptv36.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/15/f3c87ce0-3b4c-11ee-9a2b-95fa44b28696_webp_original.webp",Rock Action
+https://github.com/prachyak13/server195/raw/refs/heads/main/rockaction
+
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/6944ffddcdc3ede2f865de3c_ROCK%20ENT%20thumbnail.png",Rock Entertainment
+https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/rockentertainment.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/qd8ky1tRCj-OO8_uUMqQUuhV_UrdiL_5C8NRQFgsFSGLNmXne98_ohKxt1kMaeZ1_3s7ShVO=s900-c-k-c0x00ffffff-no-rj",Rush Channel
+https://github.com/prachyak13/server195/raw/refs/heads/main/rush
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxm6Vy9ALAVpQNij3Le0y1tGy1lghDa_B-aw&s",samrujlok
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/samrujlok.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg",SPOTV 1
+https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/truespotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",SPOTV 2
+https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/truespotv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-t_-DS1Wv-_cnH0zkLibHjJ53MFooTfw8qw&s",SPOTV1
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/spotv1.m3u8
+
+#EXTINF:-1 tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",SPOTV2
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/spotv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Oku7xv4TUB4CUpW1c0ECgoH83coDljhw35tvyM-FQGnw9yk7zRVhUdxSLUaZDVC4r48",T Sports 7
+https://github.com/prachyak13/server195/raw/refs/heads/main/tsport7
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.png",t-sport7
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/tsport7.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/47a53600-e599-11ed-94a2-8feec94a4a3b_webp_original.png",True Asian More
+https://github.com/prachyak13/server195/raw/refs/heads/main/trueasianmore
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/47a53600-e599-11ed-94a2-8feec94a4a3b_webp_original.png",true asian more
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/trueasianmore.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/978fc2da-8f65-410f-bff8-931b22c37324.png",true discovery
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/truediscovery.m3u8
+
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/c2eeff90-d612-441e-8df9-5d8985502166.png",true dreamworks
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/truedreamworks.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_original.png",True Explore Sci
+https://github.com/prachyak13/server195/raw/refs/heads/main/truescience
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_original.png",true explore sci
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/truesci.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.png",True film1
+https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/truefilm1.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.png",truefilm1
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/truefilm1.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.png",truefilm2
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/truefilm2.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png",True Film Asia
+https://github.com/prachyak13/server195/raw/refs/heads/main/truefilmasia
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png",true film asia
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/truefilmasia.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/45345d10-e599-11ed-86b8-bb40638e3c49_webp_original.png",True Movie Hits
+https://github.com/prachyak13/server195/raw/refs/heads/main/truemoviehits
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/45345d10-e599-11ed-86b8-bb40638e3c49_webp_original.png",true movie hits
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/truemoviehits.m3u8
+
+#EXTINF:-1 tvg-logo="https://dookeela4.live/uploads/1664499681.png",True Premier Football 3
+https://github.com/prachyak13/server195/raw/refs/heads/main/truefootball3
+
+#EXTINF:-1 tvg-logo="https://ball67.com/assets/channels-logo/truepremier3.png",true premier football 3
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/truefootball3.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.png",true series
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/trueseries.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/TrueSport2.jpg",True Sport 2
+https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/truesport2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/TrueSport3.jpg",True Sport 3
+https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/truesport3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/TrueSport5.jpg",True Sport 5
+https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/truesport5.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/TrueSport7.jpg",True Sport 7
+https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/truesport7.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ohlthai.com/wp-content/uploads/2021/03/true-sport-hd.png",truesport1
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/truesport1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ohlthai.com/wp-content/uploads/2021/03/true-sport-hd.png",truesport2
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/truesport2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ohlthai.com/wp-content/uploads/2021/03/true-sport-hd.png",truesport3
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/truesport3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ohlthai.com/wp-content/uploads/2021/03/true-sport-hd.png",truesport4
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/truesport4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ohlthai.com/wp-content/uploads/2021/03/true-sport-hd.png",truesport5
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/truesport5.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ohlthai.com/wp-content/uploads/2021/03/true-sport-hd.png",truesport7
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/truesport7.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.png",True Tennis HD
+https://github.com/prachyak13/server195/raw/refs/heads/main/truetennis
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.png",true tennis
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/truetennis.m3u8
+
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/9902ff70-a0f5-48c9-b8c0-e068a790a702.png",True thaifilm
+https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/truethaifilm.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cffb79f0-b44d-11ee-80bd-b787d7bab688_webp_original.webp",true thaifilm
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/truethaifilm.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",true wild
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/truewild.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46fb6170-e599-11ed-b606-c19576cb8b29_webp_original.png",true x-zyte
+https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/truexzyte.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/03/15/58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png",True4U
+https://github.com/prachyak13/server195/raw/refs/heads/main/true4u
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",truebein2
+https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truebeinsport2.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",truebein3
+https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truebeinsport3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Warner_Bros._Television_2023_%28Alt%29.svg",Warner Bros TV
+https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/warnerbrostv.m3u8
