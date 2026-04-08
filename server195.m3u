@@ -78,10 +78,11 @@ https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/hbosignat
 https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/history.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/PinsSbOLD28ibsl1S6D2ECS49pQN25Zdqnq-DhENA9OfuI2PESPO_KDJlMX8xe6RrA",Mono29
-https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/mono29.m3u8
+https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4w_CH10ooc5JsT7XGgAG4O7HzsZjT6ZU5PA&s",Mono29 Plus
-https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/mono29plus.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://monomax-ooleht.cdn.byteark.com/fleetstream/MonoPlus/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/J9pc1742730",Monomax 1
 https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/monomax1.m3u8
