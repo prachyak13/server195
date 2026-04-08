@@ -168,12 +168,6 @@ https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/tsport7.m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Warner_Bros._Television_2023_%28Alt%29.svg",Warner Bros TV
 https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/warnerbrostv.m3u8
 
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",truebein2
-https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truebeinsport2.m3u8
-
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",truebein3
-https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truebeinsport3.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x12jpfVF/Hub-Premier-2-UHD.png",HUB PREMIER UHD2 4k
 https://raw.githubusercontent.com/prachyak13/hub/refs/heads/main/hubpremier_uhd2.m3u8
 
