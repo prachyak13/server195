@@ -4,6 +4,7 @@
 
 
 #EXT-X-STREAM-INF:BANDWIDTH=2200000,NAME="1"
+https://cf.kokoshka-iptv.sbs:80/play/live.php?mac=00:1A:79:F5:59:57&stream=620786&extension=m3u8
 http://front-main.eagle-4k.me:80/live/rmt8r91bac/tsleey7v5g/108161.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2200000,NAME="1"
