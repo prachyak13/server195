@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+
+
+#EXT-X-STREAM-INF:BANDWIDTH=2200000,NAME="1"
+http://front-main.eagle-4k.me:80/live/rmt8r91bac/tsleey7v5g/108161.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=2200000,NAME="1"
+http://195.128.27.141:80/live/29635847216070086058/5jq68fox8okip6k08rbs/73973.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=2200000,NAME="1"
+http://front-main.eagle-4k.me:80/live/rmt8r91bac/tsleey7v5g/73973.m3u8
+
