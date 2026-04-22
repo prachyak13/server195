@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+
+#EXT-X-STREAM-INF:BANDWIDTH=2200000,NAME="1"
+https://starshare.net:443/live/8c:ea:48:d4:ee:c2/8c:ea:48:d4:ee:c20/316.ts
