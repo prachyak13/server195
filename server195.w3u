@@ -411,6 +411,15 @@
           "userAgent": "Mozilla/5.0",
           "info": "Server github",
           "playInNatPlayer": true
+},
+        {
+          "name": "xxx",
+          "image": "xxx",
+          "url": "https://raw.githubusercontent.com/123testhub/image/refs/heads/main/987.m3u8",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
         }
       ]
     }
