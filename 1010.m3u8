@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="animalshow" http-referer="https://kicksball.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",animalshow
-https://dov.streaming-api.xyz/kicksballcom/skysportsf1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMjYgNzozOTo1NyBQTSZoYXNoX3ZhbHVlPUVRYzBQLytjdHNVOU5MR2JzdnFaVnc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+https://dov.streaming-api.xyz/kicksballcom/animalshow/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMjYgNzo0MDoxMCBQTSZoYXNoX3ZhbHVlPWJoRzdyR0N0M2NUZXhpV2hsaW5BUGc9PSZ2YWxpZG1pbnV0ZXM9MjA=
