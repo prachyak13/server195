@@ -1,0 +1,12 @@
+{
+  "name": "Kicksball W3U",
+  "author": "LocalServer",
+  "stations": [
+    {
+      "name": "animalshow",
+      "url": "https://dov.streaming-api.xyz/kicksballcom/animalshow/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMjYgNzozNTowMyBQTSZoYXNoX3ZhbHVlPW9GV3lZTlVscndqN2h5Tk5ZeW9KclE9PSZ2YWxpZG1pbnV0ZXM9MjA=",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
+  ]
+}
