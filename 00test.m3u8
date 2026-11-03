@@ -1,14 +1,13 @@
 #EXTM3U
 #EXT-X-VERSION:6
 
-# กำหนดกลุ่มเสียงและภาษา (อ้างอิงไปยังสตรีมแต่ละภาษา)
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-group",NAME="ภาษาไทย",LANGUAGE="th",DEFAULT=YES,AUTOSELECT=YES,URI="https://main.24playerhd.com/m3u8/87320abb8bf1f473fd093497/87320abb8bf1f473fd093497438.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-group",NAME="ภาษาอังกฤษ",LANGUAGE="en",DEFAULT=NO,AUTOSELECT=YES,URI="https://main.24playerhd.com/m3u8/31eee625ec5d2395500ccec4/31eee625ec5d2395500ccec4438.m3u8"
+# ประกาศซับไตเติลภาษาไทย (ดึงจากลิงก์ที่สองโดยตรง)
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Thai",DEFAULT=YES,AUTOSELECT=YES,FORCED=YES,LANGUAGE="th",URI="https://main.24playerhd.com/m3u8/31eee625ec5d2395500ccec4/31eee625ec5d2395500ccec4438.m3u8"
 
-# รายการสตรีมหลักสำหรับภาษาไทย (เชื่อมโยงกับกลุ่มเสียง)
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,AUDIO="audio-group",CODECS="avc1.4d401f,mp4a.40.2"
+# สตรีมภาษาไทย (ลิงก์แรก)
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,CODECS="avc1.4d401f,mp4a.40.2"
 https://main.24playerhd.com/m3u8/87320abb8bf1f473fd093497/87320abb8bf1f473fd093497438.m3u8
 
-# รายการสตรีมหลักสำหรับภาษาอังกฤษ (เชื่อมโยงกับกลุ่มเสียง)
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,AUDIO="audio-group",CODECS="avc1.4d401f,mp4a.40.2"
+# สตรีมภาษาอังกฤษ พร้อมผูกซับไตเติล (ลิงก์ที่สอง)
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,SUBTITLES="subs",CODECS="avc1.4d401f,mp4a.40.2"
 https://main.24playerhd.com/m3u8/31eee625ec5d2395500ccec4/31eee625ec5d2395500ccec4438.m3u8
