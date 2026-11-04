@@ -3,4 +3,5 @@
 #EXT-X-ALLOW-CACHE:YES
 
 #EXT-X-STREAM-INF:BANDWIDTH=2200000,NAME="1"
-http://tv.cloudcdn.me/live.ts?channelId=129128&uid=757&deviceMac=00:1A:79:04:55:C4
+http://4kgood.org/live/hsc24_200090/LPx0N4fA/1163985.m3u8
+#http://tv.cloudcdn.me/live.ts?channelId=129128&uid=757&deviceMac=00:1A:79:04:55:C4
